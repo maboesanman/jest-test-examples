@@ -1,4 +1,4 @@
-const greet = require('../src/myFunction');
+const greet = require('../src/greet');
 
 describe('greet', () => {
     it('greets the user', () => {
